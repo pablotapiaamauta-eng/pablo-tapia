@@ -1,0 +1,7 @@
+{
+  "name": "NoteScan Pro",
+  "description": "An AI-powered Optical Music Recognition (OMR) tool that converts sheet music images and PDFs into digital MusicXML for editing and playback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
